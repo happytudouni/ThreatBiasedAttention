@@ -4,6 +4,9 @@
 3. ERPMeasurementsEmo.m is the program used to conduct ERP measurement, e.g., local peak amplitude and latency, mean ampltiude, and area under the curve, etc.
 
 # The ERP data in ERPLAB format has been published on Mendeley.com:  
+https://data.mendeley.com/datasets/z73rn2n6vs/1
+Please send a notice to the corresponding authors (Charles A. Nelson and Wanze Xie) when you download the data. 
+The raw EEG data are available from Charles A. Nelson upon reasonable request. 
 
 # Eyetracking data:
 EyetrackingData_and_ERPmeasures.csv contains the eye-tracking data, as well as the eye-tracking and ERP bias scores used in our study.
